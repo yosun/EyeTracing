@@ -5,10 +5,12 @@ explorations in human eye tracing, as opposed to computer vision based tracings.
 
 # Artist Statement
 
-i am not an artist. i am just curious about how my personal system casts vision to the drawing board. motion-hand-coordination.
+i am not an artist. i am just curious about how my personal system casts vision to the drawing board. sight-trace-motion-hand-coordination.
 
-back in 2006, the summer after i dropped out of physics grad school, i started sketching, as expression and quasi-obsession, but eventually to convey my perspective. 
-http://sliterary.com/art/gallery/gall.php?artist=Ina%20Centaur
+back in 2006, the summer after i dropped out of physics grad school, i [started sketching](http://sliterary.com/art/gallery/gall.php?artist=Ina%20Centaur), as expression and quasi-obsession for how my lines differ from that of auto-traced lines - and I started wondering about how algorithm could try to emulate my perspective. 
+
+much computer vision later, i'm now back to the basics. :) 
+
 
 
 # Components
