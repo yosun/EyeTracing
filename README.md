@@ -11,6 +11,7 @@ back in 2006, the summer after i dropped out of physics grad school, i [started 
 
 much computer vision later, i'm now back to the basics. :) 
 
+See: [LayerVault](https://layervault.com/yosun/EyeTracing)
 
 
 # Components
